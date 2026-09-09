@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=C6AF73&center=true&vCenter=true&width=805&height=44&lines=Software%20Architect%20%E2%80%A2%20UI%2FUX%20%E2%80%A2%20Full-Stack%20Development" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=D6C598&center=true&vCenter=true&width=805&height=44&lines=Software%20Architect%20%E2%80%A2%20UI%2FUX%20%E2%80%A2%20Full-Stack%20Development" alt="Typing headlines" />
 </p>
 
 ### ✨ About Me
@@ -14,8 +14,6 @@ Information Technology graduate specializing in Software Engineering, focused on
 
 - &nbsp;I'm currently working on **Building full-stack web products and refining personal projects**
 - &nbsp;I'm currently learning **Software architecture, system design, and AI-integrated applications**
-- &nbsp;I'm looking to collaborate on **Full-stack applications, UI/UX-driven products, and AI-powered solutions**
-- &nbsp;Ask me about **Software architecture, React, Flask, UI/UX, and digital product development**
 - &nbsp;Fun fact: **I enjoy turning ideas into products from interface design to working code.**
 
 ### 🛠️ Tech Stack

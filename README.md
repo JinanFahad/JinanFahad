@@ -25,24 +25,21 @@ Information Technology graduate specializing in Software Engineering, focused on
   <img src="https://img.shields.io/badge/CSS3-171719?style=for-the-badge&logo=css3&logoColor=C6AF73" alt="CSS3" />
   <img src="https://img.shields.io/badge/TypeScript-171719?style=for-the-badge&logo=typescript&logoColor=C6AF73" alt="TypeScript" />
   <img src="https://img.shields.io/badge/SQL-171719?style=for-the-badge&logo=mysql&logoColor=C6AF73" alt="SQL" />
-
-  <img src="https://img.shields.io/badge/React-0F131C?style=for-the-badge&logo=react&logoColor=D6C598" alt="React" />
-  <img src="https://img.shields.io/badge/Flask-0F131C?style=for-the-badge&logo=flask&logoColor=D6C598" alt="Flask" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-0F131C?style=for-the-badge&logo=tailwindcss&logoColor=D6C598" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-0F131C?style=for-the-badge&logo=bootstrap&logoColor=D6C598" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Vite-0F131C?style=for-the-badge&logo=vite&logoColor=D6C598" alt="Vite" />
-  <img src="https://img.shields.io/badge/pandas-0F131C?style=for-the-badge&logo=pandas&logoColor=D6C598" alt="pandas" />
-
+  <img src="https://img.shields.io/badge/React-171719?style=for-the-badge&logo=react&logoColor=C6AF73" alt="React" />
+  <img src="https://img.shields.io/badge/Flask-171719?style=for-the-badge&logo=flask&logoColor=C6AF73" alt="Flask" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-171719?style=for-the-badge&logo=tailwindcss&logoColor=C6AF73" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-171719?style=for-the-badge&logo=bootstrap&logoColor=C6AF73" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Vite-171719?style=for-the-badge&logo=vite&logoColor=C6AF73" alt="Vite" />
+  <img src="https://img.shields.io/badge/pandas-171719?style=for-the-badge&logo=pandas&logoColor=C6AF73" alt="pandas" />
   <img src="https://img.shields.io/badge/PostgreSQL-171719?style=for-the-badge&logo=postgresql&logoColor=C6AF73" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Firebase-171719?style=for-the-badge&logo=firebase&logoColor=C6AF73" alt="Firebase" />
   <img src="https://img.shields.io/badge/Netlify-171719?style=for-the-badge&logo=netlify&logoColor=C6AF73" alt="Netlify" />
   <img src="https://img.shields.io/badge/Vercel-171719?style=for-the-badge&logo=vercel&logoColor=C6AF73" alt="Vercel" />
-
-  <img src="https://img.shields.io/badge/Git-0F131C?style=for-the-badge&logo=git&logoColor=D6C598" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-0F131C?style=for-the-badge&logo=github&logoColor=D6C598" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-0F131C?style=for-the-badge&logo=visualstudiocode&logoColor=D6C598" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Figma-0F131C?style=for-the-badge&logo=figma&logoColor=D6C598" alt="Figma" />
-  <img src="https://img.shields.io/badge/Postman-0F131C?style=for-the-badge&logo=postman&logoColor=D6C598" alt="Postman" />
+  <img src="https://img.shields.io/badge/Git-171719?style=for-the-badge&logo=git&logoColor=C6AF73" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-171719?style=for-the-badge&logo=github&logoColor=C6AF73" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-171719?style=for-the-badge&logo=visualstudiocode&logoColor=C6AF73" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-171719?style=for-the-badge&logo=figma&logoColor=C6AF73" alt="Figma" />
+  <img src="https://img.shields.io/badge/Postman-171719?style=for-the-badge&logo=postman&logoColor=C6AF73" alt="Postman" />
 </p>
 
 ## ✨ Featured Projects
@@ -53,7 +50,9 @@ AI-powered platform for entrepreneurs in Saudi Arabia to generate feasibility st
 
 **Tech:** React · TypeScript · Flask · Python · PostgreSQL · AI
 
-[View on GitHub →](https://github.com/JinanFahad/CPIT-499)
+<a href="https://github.com/JinanFahad/CPIT-499">
+  <img src="https://img.shields.io/badge/View_on_GitHub-171719?style=for-the-badge&logo=github&logoColor=C6AF73" alt="View Muqaddim on GitHub" />
+</a>
 
 ---
 
@@ -61,7 +60,9 @@ AI-powered platform for entrepreneurs in Saudi Arabia to generate feasibility st
 
 A real-world financial solutions website developed during my summer training, built collaboratively with an Agile workflow and continuous client feedback.
 
-[Visit Website →](https://soln.sa)
+<a href="https://soln.sa">
+  <img src="https://img.shields.io/badge/Visit_Website-171719?style=for-the-badge&logo=googlechrome&logoColor=C6AF73" alt="Visit Soln Website" />
+</a>
 
 ---
 
@@ -71,7 +72,9 @@ A responsive business website built for a client in Canada, featuring service in
 
 **Tech:** HTML · CSS · JavaScript · Responsive Design
 
-[Visit Website →](https://fastassemblerhamiton.netlify.app/)
+<a href="https://fastassemblerhamiton.netlify.app/">
+  <img src="https://img.shields.io/badge/Visit_Website-171719?style=for-the-badge&logo=googlechrome&logoColor=C6AF73" alt="Visit Fast Assembler Hamilton" />
+</a>
 
 ---
 
@@ -81,7 +84,9 @@ A real-world digital platform I contributed to during my summer training, focusi
 
 **Focus:** UI Design · Product Collaboration · Agile
 
-[Visit Website →](https://nextcore.sa/en)
+<a href="https://nextcore.sa/en">
+  <img src="https://img.shields.io/badge/Visit_Website-171719?style=for-the-badge&logo=googlechrome&logoColor=C6AF73" alt="Visit NexCore Website" />
+</a>
 
 ### 🔗 Connect With Me
 
@@ -103,13 +108,13 @@ A real-world digital platform I contributed to during my summer training, focusi
 
 <p align="center">
   <img
-    height="165"
+    width="48%"
     src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=JinanFahad&show_icons=true&bg_color=0B0D13&title_color=F0E4C2&text_color=D6C598&icon_color=C6AF73&ring_color=C6AF73&border_color=322E26&count_private=true"
     alt="Jinan Fahad GitHub Stats"
   />
 
   <img
-    height="165"
+    width="48%"
     src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=JinanFahad&layout=compact&bg_color=0B0D13&title_color=F0E4C2&text_color=D6C598&border_color=322E26&langs_count=8"
     alt="Jinan Fahad Most Used Languages"
   />

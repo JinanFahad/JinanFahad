@@ -44,49 +44,75 @@ Information Technology graduate specializing in Software Engineering, focused on
 
 ## ✨ Featured Projects
 
-### 🚀 Muqaddim — AI Feasibility Study Platform
+<table>
+<tr>
 
-AI-powered platform for entrepreneurs in Saudi Arabia to generate feasibility studies, pitch decks, and government procedure guidance.
+<td width="50%" valign="top">
+  <h3>🚀 Muqaddim</h3>
 
-**Tech:** React · TypeScript · Flask · Python · PostgreSQL · AI
+  <p>
+    AI-powered platform for entrepreneurs in Saudi Arabia to generate
+    feasibility studies, pitch decks, and government procedure guidance.
+  </p>
 
-<a href="https://github.com/JinanFahad/CPIT-499">
-  <img src="https://img.shields.io/badge/View_on_GitHub-171719?style=for-the-badge&logo=github&logoColor=C6AF73" alt="View Muqaddim on GitHub" />
-</a>
+  <p><b>React · TypeScript · Flask · Python · PostgreSQL · AI</b></p>
 
----
+  <a href="https://github.com/JinanFahad/CPIT-499">
+    <img src="https://img.shields.io/badge/View_on_GitHub-171719?style=for-the-badge&logo=github&logoColor=C6AF73" alt="Muqaddim GitHub"/>
+  </a>
+</td>
 
-### 💼 Soln — Financial Solutions
+<td width="50%" valign="top">
+  <h3>💼 Soln</h3>
 
-A real-world financial solutions website developed during my summer training, built collaboratively with an Agile workflow and continuous client feedback.
+  <p>
+    A real-world financial solutions website developed during my summer
+    training through an Agile workflow and continuous client feedback.
+  </p>
 
-<a href="https://soln.sa">
-  <img src="https://img.shields.io/badge/Visit_Website-171719?style=for-the-badge&logo=googlechrome&logoColor=C6AF73" alt="Visit Soln Website" />
-</a>
+  <p><b>Agile · Web Development · Product Collaboration</b></p>
 
----
+  <a href="https://soln.sa">
+    <img src="https://img.shields.io/badge/Visit_Website-171719?style=for-the-badge&logo=googlechrome&logoColor=C6AF73" alt="Soln Website"/>
+  </a>
+</td>
 
-### 🌐 Fast Assembler Hamilton
+</tr>
 
-A responsive business website built for a client in Canada, featuring service information, transparent pricing, and WhatsApp-integrated quote requests.
+<tr>
 
-**Tech:** HTML · CSS · JavaScript · Responsive Design
+<td width="50%" valign="top">
+  <h3>🌐 Fast Assembler Hamilton</h3>
 
-<a href="https://fastassemblerhamiton.netlify.app/">
-  <img src="https://img.shields.io/badge/Visit_Website-171719?style=for-the-badge&logo=googlechrome&logoColor=C6AF73" alt="Visit Fast Assembler Hamilton" />
-</a>
+  <p>
+    A responsive business website built for a client in Canada, featuring
+    service information, transparent pricing, and WhatsApp-integrated requests.
+  </p>
 
----
+  <p><b>HTML · CSS · JavaScript · Responsive Design</b></p>
 
-### 🎨 NexCore
+  <a href="https://fastassemblerhamiton.netlify.app/">
+    <img src="https://img.shields.io/badge/Visit_Website-171719?style=for-the-badge&logo=googlechrome&logoColor=C6AF73" alt="Fast Assembler Website"/>
+  </a>
+</td>
 
-A real-world digital platform I contributed to during my summer training, focusing on UI design and collaboration within an Agile product team.
+<td width="50%" valign="top">
+  <h3>🎨 NexCore</h3>
 
-**Focus:** UI Design · Product Collaboration · Agile
+  <p>
+    A real-world digital platform I contributed to during my summer training,
+    focusing on UI design and collaboration within an Agile product team.
+  </p>
 
-<a href="https://nextcore.sa/en">
-  <img src="https://img.shields.io/badge/Visit_Website-171719?style=for-the-badge&logo=googlechrome&logoColor=C6AF73" alt="Visit NexCore Website" />
-</a>
+  <p><b>UI Design · Product Collaboration · Agile</b></p>
+
+  <a href="https://nextcore.sa/en">
+    <img src="https://img.shields.io/badge/Visit_Website-171719?style=for-the-badge&logo=googlechrome&logoColor=C6AF73" alt="NexCore Website"/>
+  </a>
+</td>
+
+</tr>
+</table>
 
 ### 🔗 Connect With Me
 
@@ -104,18 +130,21 @@ A real-world digital platform I contributed to during my summer training, focusi
   </a>
 </p>
 
+
 ### 📊 GitHub Stats
 
 <p align="center">
   <img
-    width="48%"
+    width="520"
     src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=JinanFahad&show_icons=true&bg_color=0B0D13&title_color=F0E4C2&text_color=D6C598&icon_color=C6AF73&ring_color=C6AF73&border_color=322E26&count_private=true"
     alt="Jinan Fahad GitHub Stats"
   />
+</p>
 
+<p align="center">
   <img
-    width="48%"
-    src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=JinanFahad&layout=compact&bg_color=0B0D13&title_color=F0E4C2&text_color=D6C598&border_color=322E26&langs_count=8"
+    width="520"
+    src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=JinanFahad&layout=compact&card_width=520&bg_color=0B0D13&title_color=F0E4C2&text_color=D6C598&border_color=322E26&langs_count=8"
     alt="Jinan Fahad Most Used Languages"
   />
 </p>

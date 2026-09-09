@@ -44,6 +44,41 @@ Information Technology graduate specializing in Software Engineering, focused on
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
+## ✨ Featured Projects
+
+### 🚀 Muqaddim — AI Feasibility Study Platform
+AI-powered platform for entrepreneurs in Saudi Arabia to generate feasibility studies, pitch decks, and government procedure guidance.
+
+**Tech:** React · TypeScript · Flask · Python · PostgreSQL · AI
+
+[View on GitHub →](https://github.com/JinanFahad/CPIT-499)
+
+---
+
+### 💼 Soln — Financial Solutions
+A real-world financial solutions website developed during my summer training, built collaboratively with an Agile workflow and continuous client feedback.
+
+[Visit Website →](https://soln.sa)
+
+---
+
+### 🌐 Fast Assembler Hamilton
+A responsive business website built for a client in Canada, featuring service information, transparent pricing, and WhatsApp-integrated quote requests.
+
+**Tech:** HTML · CSS · JavaScript · Responsive Design
+
+[Visit Website →](https://fastassemblerhamiton.netlify.app/)
+
+---
+
+### 🎨 NexCore
+A real-world digital platform I contributed to during my summer training, focusing on UI design and collaboration within an Agile product team.
+
+**Focus:** UI Design · Product Collaboration · Agile
+
+[Visit Website →](https://nextcore.sa/en)
+
+
 ### 🔗 Connect With Me
 
 <p align="left">
